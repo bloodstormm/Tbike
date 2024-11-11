@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Mountain Bike X1",
+    "marca": "Oggi",
+    "valorHora": 15,
+    "imagem": "/images/bike2.png",
+    "distanciaMaxima": "45km",
+    "velocidadeMaxima": "20km/h",
+    "pesoMaximo": "1kg"
+  },
+  {
+    "nome": "Speedster 3000",
+    "marca": "Scott",
+    "valorHora": 20,
+    "imagem": "/images/caloi.webp",
+    "distanciaMaxima": "50km",
+    "velocidadeMaxima": "25km/h",
+    "pesoMaximo": "1.2kg"
+  },
+  {
+    "nome": "Urban Cruiser",
+    "marca": "Caloi",
+    "valorHora": 10,
+    "imagem": "/images/bike3.png",
+    "distanciaMaxima": "40km",
+    "velocidadeMaxima": "18km/h",
+    "pesoMaximo": "1.5kg"
+  },
+  {
+    "nome": "Trail Blazer",
+    "marca": "KSW",
+    "valorHora": 18,
+    "imagem": "/images/bike4.png",
+    "distanciaMaxima": "55km",
+    "velocidadeMaxima": "22km/h",
+    "pesoMaximo": "1.3kg"
+  },
+  {
+    "nome": "City Explorer",
+    "marca": "Monaco",
+    "valorHora": 12,
+    "imagem": "/images/bike5.png",
+    "distanciaMaxima": "30km",
+    "velocidadeMaxima": "15km/h",
+    "pesoMaximo": "1.8kg"
+  }
+] 
