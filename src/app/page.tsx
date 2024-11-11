@@ -3,7 +3,6 @@
 import Image from "next/image";
 import profile from "../../public/images/profile.webp";
 import Link from "next/link";
-import { useTheme } from 'next-themes';
 import bikesData from "../data/bikes.json";
 import { useEffect, useState } from "react";
 
